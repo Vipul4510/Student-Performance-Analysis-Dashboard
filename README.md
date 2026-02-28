@@ -52,3 +52,7 @@ Download: Clone the repository and open the .pbix file in Power BI Desktop.
 Filter: Use the Department slicer on the left to see how specific engineering branches are performing.
 
 Analyze: Hover over the bar charts to see detailed tooltips regarding student distribution and result categories.
+
+
+<img width="1751" height="963" alt="image" src="https://github.com/user-attachments/assets/369577c6-6115-4d86-8b28-6a89bc9d55cc" />
+
